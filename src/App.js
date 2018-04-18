@@ -120,6 +120,7 @@ class App extends Component {
                 <ul className="made-by list-inline">
                   <li className="list-inline-item">Riyad Parvez</li>
                   <li className="list-inline-item">Ashotosh Saraf</li>
+                  <li className="list-inline-item">Krishna Shrivas</li>
                 </ul>
               </div>
             </div>
