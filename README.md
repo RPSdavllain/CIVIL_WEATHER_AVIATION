@@ -4,7 +4,7 @@
 ## Clone
 If you have git installed in your computer, then you can clone it using git easily:
 
-```git clone https://github.com/zonayedpca/civilAviationWeatherApp.git```
+```git clone https://github.com/rpsdavllain/civilAviationWeatherApp.git```
 
 Otherwise, you may want to download it directly. After downloading, you may require some additional tasks as extract and so on. But in both case make sure you are using CLI inside the project directory where the **package.json** file is located.
 
